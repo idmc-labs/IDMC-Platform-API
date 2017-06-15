@@ -5,7 +5,7 @@ In order to gain access to IDMC data platform API, you need a special access key
 
 ## Content
 
-1. [Home](/wiki)
+1. [Home](wiki)
 2. [URL](/wiki/URL)
 3. [Response format](/wiki/Response-format)
 4. [Endpoints](/wiki/Endpoints)
